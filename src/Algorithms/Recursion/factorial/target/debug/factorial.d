@@ -1,0 +1,1 @@
+C:\Projects\Rust\algorithms_and_data_structures\src\Algorithms\Recursion\factorial\target\debug\factorial.exe: C:\Projects\Rust\algorithms_and_data_structures\src\Algorithms\Recursion\factorial\src\main.rs
