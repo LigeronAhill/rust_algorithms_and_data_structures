@@ -1,4 +1,5 @@
 # Rust Algorithms and Data Structures
+![Rust](https://img.shields.io/badge/language-Rust-orange)
 
 This repository contains Rust implementations of various algorithms and data structures. The purpose of this repository is to provide a resource for those who are interested in learning or practicing algorithms and data structures using Rust.
 
